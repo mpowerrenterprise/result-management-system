@@ -13,48 +13,83 @@ This is a simple result management system written in C#, that has some basic fea
 
 ### Frontend
 
-- HTML 5
-- CSS 3
-- JavaScript
-- jQuery
-- Bootstrap 4
-
-### Backend
-- PHP
-- MySQL
-
+- C#
+- .NET 4.8
+- MYSQL
 
 
 ## Directory Structure
 
 - **0-database** : Contains the database of the system.
 - **1-soruce**   : Contains source code of the project.
-- **2-selenium-testing-scripts**   : Contains testing scripts for the project.
 
 - **github-readme-contents**   : Contains GitHub readme assets.
 
 
 ## Configuration & Setup
 
-**Step 01:** The source code is found on the "1-source" directory, deploy it in a server.
+**Step 01:** The source code is found on the "1-source" directory.
 
 **Step 02:** The database is found on the "0-database" folder, deploy it in a MySQL database engine Ex: phpMyAdmin.
 
 ## System Explained
 
-### Website Index Page
+### Login Page
 
-This is the front page of the website. It contains some basic information of the online platform.
+This is the login page of this system where the admin needs to enter the username and password to authenticate into the system.
 
-![Sitemap](github-readme-contents/web-page.gif)
+![Sitemap](github-readme-contents/login-page.jpg)
 
 
-### Search Page
+### Loading Screen
 
-This page has a filter feature where visitors are able to search and find information of hotels and restaurants in Sri Lanka, the search could used to filter restaurants and hotels based on districts.
+This is the loading screen of the system, it appears after the successful login.
 
-![Sitemap](github-readme-contents/search.gif)
+![Sitemap](github-readme-contents/loading-screen.jpg)
 
+### Dashboard
+
+This system has a simple UI for the dashboard, it has the following modules.
+
+- **Students Module:** Has features to manage student data such as registering, deleting, updating etc.
+
+  - **Sub Modules**
+    - Add Students Module
+    - Manage Students Module
+
+
+- **Courses Module:**: Has features to manage course data such as course title, department and, etc.
+
+  - **Sub Modules**
+    - Add Courses Module
+    - Manage Courses Module
+
+
+- **Batches Module:**: Has features to manage batches such as adding batch number, updating, deleting and, etc.
+
+  - **Sub Modules**
+    - Cerate Batches Module
+    - Manage Batches Module
+
+
+- **Subjects Module:**: Has features to manage subjects such as updating, adding, deleting subjects and etc.
+
+  - **Sub Modules**
+    - Add Subjects Module
+    - Manage Subjects Module
+    - Show All Subjects Module
+
+
+- **Results Module:** Has features to manage results such as provide results for students and, etc.
+
+- **Sub Modules**
+  - Add Results Module
+  - Manage Results Module
+
+
+- **Settings Module:** Has features to change credentials of the system.
+
+![Sitemap](github-readme-contents/dashboard.jpg)
 
 ### Admin Page
 
