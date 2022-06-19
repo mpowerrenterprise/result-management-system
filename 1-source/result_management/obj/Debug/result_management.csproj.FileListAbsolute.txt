@@ -1,0 +1,27 @@
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\bin\Debug\result_management.exe.config
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.csprojResolveAssemblyReference.cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.login.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.Properties.Resources.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.csproj.GenerateResource.Cache
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\bin\Debug\result_management.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\bin\Debug\result_management.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.exe
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.pdb
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.waitScreen.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.displayFrom.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\bin\Debug\MySql.Data.dll
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.addStudent.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.Add_batch.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.add_course.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.manage_batch.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.manage_course.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.manage_student.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.subject.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.subject_manage.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.Subject_list.resources
+c:\users\joker hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.Results.resources
+C:\Users\Joker Hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.Manage_Result.resources
+C:\Users\Joker Hacker\documents\visual studio 2015\Projects\result_management\result_management\obj\Debug\result_management.Settings.resources
+D:\03.Computer Science\07.My Notes\07.My Project\Result Management\result_management\result_management\bin\Debug\result_management.exe.config
+D:\03.Computer Science\07.My Notes\07.My Project\Result Management\result_management\result_management\obj\Debug\result_management.exe
+D:\03.Computer Science\07.My Notes\07.My Project\Result Management\result_management\result_management\obj\Debug\result_management.pdb
