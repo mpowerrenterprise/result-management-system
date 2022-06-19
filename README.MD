@@ -91,113 +91,157 @@ This system has a simple UI for the dashboard, it has the following modules.
 
 ![Sitemap](github-readme-contents/dashboard.jpg)
 
-### Admin Page
+
+### Student Module
+
+#### Add Students Module
+
+##### Features
+- Add students.
+- Clear textboxes.
+- Date picker
+- Gridview of added students
+
+![Sitemap](github-readme-contents/add-students.jpg)
+
+
+#### Manage Students Module
+
+##### Features
+- Delete students.
+- Update students.
+- Search students.
+- Gridview of added students
+
+![Sitemap](github-readme-contents/manage-students.jpg)
+
+
+
+### Courses Module
+
+#### Add Courses Module
+
+##### Features
+- Add courses.
+- Gridview of added courses.
+
+![Sitemap](github-readme-contents/add-course.jpg)
+
+
+#### Manage Courses Module
+
+##### Features
+- Delete Courses.
+- Update Courses.
+- Search Courses.
+- Gridview of added Courses.
+
+![Sitemap](github-readme-contents/manage-course.jpg)
+
+
+### Batches Module
+
+#### Add Batches Module
+
+##### Features
+- Add batches.
+- Gridview of added batches.
+
+![Sitemap](github-readme-contents/batches-add.jpg)
+
+
+#### Manage Batches Module
+
+##### Features
+- Delete batches.
+- Update batches.
+- Search batches.
+- Gridview of added batches.
+
+![Sitemap](github-readme-contents/batches-manage.jpg)
+
+
+### Subjects Module
+
+#### Add Subjects Module
+
+##### Features
+- Add subjects.
+- Gridview of added subjects.
+
+![Sitemap](github-readme-contents/subject-add.jpg)
+
+
+#### Manage Subjects Module
+
+##### Features
+- Delete subjects.
+- Update subjects.
+- Search subjects.
+- Gridview of added subjects.
+
+![Sitemap](github-readme-contents/subject-manage.jpg)
+
+
+#### Show All Subjects Module
+
+![Sitemap](github-readme-contents/show-all-subjects.jpg)
+
+
+
+### Results Module
+
+#### Add Results Module
+
+##### Features
+- provide results.
+- Gridview of added results.
+
+![Sitemap](github-readme-contents/add-results.jpg)
+
+
+#### Manage Results Module
+
+##### Features
+- Filter search
+- Serach results.
+- Gridview of added results.
+
+![Sitemap](github-readme-contents/results-manage.jpg)
+
+
+### Settings
+
+##### Features
+- Feature to change username.
+- Feature to change password.
+- Feature to backup database.
+- Feature to restore database.
+
+![Sitemap](github-readme-contents/settings.jpg)
+
+
+## Execution
+
+### Step 01:
+
+**Note:** Execute the following exe.
 
 ```
-http://www.domain-name.com/admin_login.php
-
+1-source\result_management\bin\Debug\result_management.exe
 ```
 
-**Note:** The admin page is hidden, in order to open the admin panel, we have to type **"/admin_login.php"** after the domain name of this platform, an example is shown bellow.
+![Sitemap](github-readme-contents/exe-file.jpg)
 
-### Admin Login
+### Step 02:
 
-![Sitemap](github-readme-contents/login-page.jpg)
+**Note:** Open the project in visual studio.
 
-#### Credentials
+```
+1-source\result_management.sln
+```
 
-- **Username:** guna
-- **Password:** kuna123
-
-
-### Admin Account
-
-This is the admin panel. It contain six modules such as Dashboard, Register Hotels, modify hotels, Cerate Gallery, Preview, Settings, Logout.
-
-- **Dashboard:** Has a simple UI.
-- **Register Hotels:** has the function to register hotels.
-- **Modify Hotels:** has delete/edit function.
-- **Cerate Gallery:** has function to create gallery for registered hotels.
-- **Preview:** has function to preview hotel info as visitors.
-- **Settings:** has function to change credentials such as password.
-- **Logout:** has function to logout.
-
-
-![Sitemap](github-readme-contents/dashboard.jpg)
-
-### Register Hotels Module
-
-**Note:** This page module function to register new hotel to the system database.
-
-![Sitemap](github-readme-contents/register-hotel.gif)
-
-
-### Cerate Gallery Module
-
-**Note:** This module has function create image gallery for registered hotel.
-
-![Sitemap](github-readme-contents/create-gallery.gif)
-
-### Preview Module
-
-**Note:** This module will take us to the home page to check the preview.
-
-![Sitemap](github-readme-contents/preview.jpg)
-
-
-### Setting Module
-
-**Note:** This module is used to change password of the admin panel.
-
-![Sitemap](github-readme-contents/settings-module.jpg)
-
-
-## Web Testing Scripts Explained
-
-### Introduction
-
-Web testing is a software testing practice to test websites or web applications for potential bugs. It’s a complete testing of web-based applications before making them live.
-
-**Note:** The testing script for this web application is found on the following directory "2-selenium-testing-scripts/start-testing.py", to start the automatic testing run this scripts.
-
-**Note:** The framework, selenium is used to build this testing script with python Programming language.
-
-#### Setup Testing Script
-
-- **Step 01: Install Python**
-  - [Download Python](https://www.python.org/)
-
-- **Step 02: Install Selenium**
-  - ```pip install selenium```
-
-- **Step 03: Download Latest Driver for Chrome**
-  - [Download Chrome Driver](https://chromedriver.chromium.org/downloads)
-
-- **Step 03: Install Pynput**
-  - ```pip install pynput```
-
-
-#### Execute Testing script.
-
-- **Step 01:** The script is found on the following directory.
-
-  ```
-  find-your-hotel/2-selenium-testing-scripts/start-testing.py
-  ```
-
-- **Step 02:** Edit the URL to the domain (Hosted URL) on line number 11.
-
-  ![Sitemap](github-readme-contents/code.jpg)
-
-- **Step 03:** Execute the script.
-
-  ```
-  python start-testing.py
-  ```
-
-#### Testing script output.
-
-![Sitemap](github-readme-contents/testing.gif)
+![Sitemap](github-readme-contents/open-vs.jpg)
 
 ## Social Media Links
 
