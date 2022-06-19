@@ -11,8 +11,6 @@ This is a simple result management system written in C#, that has some basic fea
 
 ## Technology and Frameworks
 
-### Frontend
-
 - C#
 - .NET 4.8
 - MYSQL
