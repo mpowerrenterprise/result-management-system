@@ -63,6 +63,16 @@ namespace result_management.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap change_management_workshop_banner {
+            get {
+                object obj = ResourceManager.GetObject("change-management-workshop-banner", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap event120170809135607_15022671671 {
             get {
                 object obj = ResourceManager.GetObject("event120170809135607_15022671671", resourceCulture);

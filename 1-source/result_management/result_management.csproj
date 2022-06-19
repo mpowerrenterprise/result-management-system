@@ -238,6 +238,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="if_cup_416372.ico" />
+    <None Include="Resources\change-management-workshop-banner.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">

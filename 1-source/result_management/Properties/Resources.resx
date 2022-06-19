@@ -121,4 +121,7 @@
   <data name="event120170809135607_15022671671" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\event120170809135607_15022671671.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="change-management-workshop-banner" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\change-management-workshop-banner.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
