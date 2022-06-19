@@ -25,3 +25,42 @@ C:\Users\Joker Hacker\documents\visual studio 2015\Projects\result_management\re
 D:\03.Computer Science\07.My Notes\07.My Project\Result Management\result_management\result_management\bin\Debug\result_management.exe.config
 D:\03.Computer Science\07.My Notes\07.My Project\Result Management\result_management\result_management\obj\Debug\result_management.exe
 D:\03.Computer Science\07.My Notes\07.My Project\Result Management\result_management\result_management\obj\Debug\result_management.pdb
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\result_management.exe.config
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\result_management.exe
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\result_management.pdb
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\MySql.Data.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\Google.Protobuf.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\Zstandard.Net.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\System.Memory.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\System.Buffers.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\bin\Debug\MySql.Data.xml
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.csproj.AssemblyReference.cache
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.exe.config
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.addStudent.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.Add_batch.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.add_course.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.displayFrom.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.login.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.manage_batch.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.manage_course.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.Manage_Result.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.manage_student.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.Properties.Resources.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.Results.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.Settings.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.subject.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.Subject_list.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.subject_manage.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.waitScreen.resources
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.csproj.GenerateResource.cache
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.csproj.CoreCompileInputs.cache
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.csproj.CopyComplete
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.exe
+C:\Users\Gunarakulan\Desktop\4-result-management-system\1-source\result_management\obj\Debug\result_management.pdb
