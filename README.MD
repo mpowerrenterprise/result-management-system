@@ -233,7 +233,7 @@ This system has a simple UI for the dashboard, it has the following modules.
 
 ### Step 02:
 
-**Note:** Open the project in visual studio.
+**Note:** Open the project in Visual Studio.
 
 ```
 1-source\result_management.sln
@@ -243,10 +243,10 @@ This system has a simple UI for the dashboard, it has the following modules.
 
 ## Social Links
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
-* [Facebook Profile](https://www.facebook.com/gunarakulangunaratnam)
-* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
-* [Twitter Profile ](https://twitter.com/gunarakulangr)
-* [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
-* [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
-* [Youtube Profile](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
+- [Linkedin](https://www.linkedin.com/in/gunarakulangunaretnam)
+- [Facebook](https://www.facebook.com/gunarakulangunaretnam)
+- [Instagram](https://www.instagram.com/gunarakulangunaretnam)
+- [Twitter](https://twitter.com/gunarakulangr)
+- [Kaggle](https://www.kaggle.com/gunarakulangr)
+- [TikTok](https://www.tiktok.com/@gunarakulangunaretnam)
+- [Youtube](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
