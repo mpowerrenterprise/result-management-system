@@ -1,13 +1,10 @@
-# RESULT MANAGEMENT SYSTEM
+# Result Management System
 
 ## Introduction
 
-A Result management system used any school student results, certificate manage. Manages Administrative control along with standard access to teacher and student for all necessary result related facilities. School result management system is very unique application. You can used the application for your institution.
+A Result management system used any school student results, certificate manage. Manages Administrative control along with standard access to teachers and students for all necessary result-related facilities. The school result management system is very unique application. You can used the application for your institution.
 
 This is a simple result management system written in C#, that has some basic features of result management methodologies.
-
-
-
 
 ## Technology and Frameworks
 
@@ -241,7 +238,7 @@ This system has a simple UI for the dashboard, it has the following modules.
 
 ![Sitemap](github-readme-contents/open-vs.jpg)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
